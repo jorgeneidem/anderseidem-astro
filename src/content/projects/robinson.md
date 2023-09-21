@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/robinson.webp"
+thumbnail: "/anderseidem-astro/uploads/robinson.webp"
 title: Robinsonekspedisjonen
 pubDate: 'Apr 20 2022'
 categories:
@@ -17,4 +17,4 @@ Regi for [Robinsonekspedisjonen](https://viaplay.no/serier/robinsonekspedisjonen
 
 
 
-![](/uploads/symesterskapet.jpg)
+![](/anderseidem-astro/uploads/symesterskapet.jpg)

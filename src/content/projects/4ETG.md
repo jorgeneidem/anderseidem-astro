@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/nrk4etg-poster.jpg"
+thumbnail: "/anderseidem-astro/uploads/nrk4etg-poster.jpg"
 title: NRK 4ETG
 pubDate: 'Dec 12 2019'
 categories:
@@ -14,8 +14,8 @@ Foto og fotoredigerer for diverse innslag for 4ETG på NRK TV og YouTube:
 [**Jonas og Martha møter en astrolog**] (https://tv.nrk.no/serie/nrk-4etg/2019/MUHH51009919),  
 [**Funkygine og Martha spiller Resident Evil 7 VR**] (https://tv.nrk.no/serie/nrk-4etg/2020/MUHH51000120).  
 
-![](/uploads/nrk4etg-liten-stund-med-jonas-poster.jpg)
-![](/uploads/nrk4etg-roomba.jpg)
-![](/uploads/nrk4etg-astrologi.jpg)
-![](/uploads/nrk4etg-vr-funkygine.jpg)
+![](/anderseidem-astro/uploads/nrk4etg-liten-stund-med-jonas-poster.jpg)
+![](/anderseidem-astro/uploads/nrk4etg-roomba.jpg)
+![](/anderseidem-astro/uploads/nrk4etg-astrologi.jpg)
+![](/anderseidem-astro/uploads/nrk4etg-vr-funkygine.jpg)
 

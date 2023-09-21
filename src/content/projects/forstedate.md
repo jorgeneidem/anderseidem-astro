@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/forstedate.jpg"
+thumbnail: "/anderseidem-astro/uploads/forstedate.jpg"
 title: Første date
 pubDate: 'Dec 01 2018'
 categories:
@@ -12,4 +12,4 @@ project_fg_color: '#111111'
 ---
 Foto for Første Date sesong 2, via Monster
 
-![](/uploads/forstedate-2.jpg)
+![](/anderseidem-astro/uploads/forstedate-2.jpg)

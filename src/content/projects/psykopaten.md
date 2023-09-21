@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/psykopaten.jpg"
+thumbnail: "/anderseidem-astro/uploads/psykopaten.jpg"
 title: Psykopaten 
 pubDate: 'Jun 02 2020'
 categories:
@@ -12,4 +12,4 @@ project_fg_color: '#111111'
 ---
 Foto for Psykopaten, dokumentarfilm av Underdog Production for SVT
 
-![](/uploads/psykopaten.jpg)
+![](/anderseidem-astro/uploads/psykopaten.jpg)

@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/rebell.jpg"
+thumbnail: "/anderseidem-astro/uploads/rebell.jpg"
 title: Rebell Produksjonsbyrå
 pubDate: 'Jan 01 2018'
 categories:

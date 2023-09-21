@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/svindeljegerne-poster.jpg"
+thumbnail: "/anderseidem-astro/uploads/svindeljegerne-poster.jpg"
 title: Svindeljegerne 
 pubDate: 'Oct 10 2017'
 categories:
@@ -12,4 +12,4 @@ project_fg_color: '#111111'
 ---
 Foto, Svindeljegerne sesong 1 på TV3
 
-![](/uploads/svindeljegerne-poster.jpg)
+![](/anderseidem-astro/uploads/svindeljegerne-poster.jpg)
