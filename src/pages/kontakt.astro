@@ -1,0 +1,95 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title="Kontakt" description="Anders Eidem" />
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+			}
+			.hero-image {
+				width: 100%;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.last-updated-on {
+				font-style: italic;
+			}
+			.contact-grid {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				gap: 0.25rem;
+			}
+
+			@media (max-width: 32rem) {
+				.contact-grid {
+					grid-template-columns: 1fr;
+					gap: 1.5rem;
+				}
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				<div class="prose">
+					<div class="title">
+						<h1>Ta kontakt</h1>
+						<hr />
+					</div>
+					<div>
+						<p>
+							Takk for at du viser interesse i arbeidet mitt. Hvis du har
+							spørsmål, ønsker å diskutere et prosjekt, eller bare vil si hei,
+							er jeg alltid klar for en prat. Jeg gjør mitt beste for å svare så
+							raskt som mulig, og ser frem til å høre fra deg!
+						</p>
+						<div class="contact-grid">
+							<div>
+								<h6>E-post</h6>
+								<div>hei@anderseidem.no</div>
+							</div>
+							<div>
+								<h6>Telefon</h6>
+								<div>(+47) 415 56 486</div>
+							</div>
+							<div></div>
+						</div>
+					</div>
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
